@@ -29,7 +29,7 @@ Users should be able to:
 ![active-3](screenshot/screenshot-active03.png)
 
 ### Links
-- Live Site URL: 
+- Live Site URL: https://yacodingroom.github.io/order-summary/
 
 ## My process
 ### Built with
